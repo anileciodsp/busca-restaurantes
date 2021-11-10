@@ -1,1 +1,1 @@
-# Desenvolvimento Busca Restaurantes em React
+# Desenvolvimento de Busca Restaurantes em React
